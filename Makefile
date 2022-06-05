@@ -1,6 +1,6 @@
 CC      := g++
 
-CXXFLAGS := -pedantic-errors -Wall -Wextra -Werror
+CXXFLAGS := -pedantic-errors -Wall -Wextra -Werror 
 CPPFLAGS := 
 
 LFLAGS  :=
